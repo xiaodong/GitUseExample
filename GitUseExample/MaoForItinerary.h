@@ -10,4 +10,6 @@
 
 @interface MaoForItinerary : UIViewController
 
+-(void)fakeMethod;
+
 @end

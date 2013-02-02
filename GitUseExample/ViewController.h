@@ -12,4 +12,6 @@
 
 -(IBAction)clickTheButton:(id)sender;
 
+-(void)fakeMethod;
+
 @end
