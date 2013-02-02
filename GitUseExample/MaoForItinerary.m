@@ -1,18 +1,18 @@
 //
-//  MapForIternerary.m
+//  MaoForItinerary.m
 //  GitUseExample
 //
 //  Created by Xander on 02/02/2013.
 //  Copyright (c) 2013 iDroidStudio. All rights reserved.
 //
 
-#import "MapForIternerary.h"
+#import "MaoForItinerary.h"
 
-@interface MapForIternerary ()
+@interface MaoForItinerary ()
 
 @end
 
-@implementation MapForIternerary
+@implementation MaoForItinerary
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
@@ -26,7 +26,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    // Do any additional setup after loading the view from its nib.
+	// Do any additional setup after loading the view.
 }
 
 - (void)didReceiveMemoryWarning

@@ -18,7 +18,7 @@
 		14085E3316BC1AD70040B104 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 14085E3216BC1AD70040B104 /* Default-568h@2x.png */; };
 		14085E3616BC1AD70040B104 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14085E3416BC1AD70040B104 /* MainStoryboard.storyboard */; };
 		14085E3916BC1AD70040B104 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 14085E3816BC1AD70040B104 /* ViewController.m */; };
-		14085E4216BCDEEE0040B104 /* MapForIternerary.m in Sources */ = {isa = PBXBuildFile; fileRef = 14085E4016BCDEEE0040B104 /* MapForIternerary.m */; };
+		14085E4616BCDFAF0040B104 /* MaoForItinerary.m in Sources */ = {isa = PBXBuildFile; fileRef = 14085E4516BCDFAF0040B104 /* MaoForItinerary.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,8 +38,8 @@
 		14085E3516BC1AD70040B104 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		14085E3716BC1AD70040B104 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		14085E3816BC1AD70040B104 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		14085E3F16BCDEEE0040B104 /* MapForIternerary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapForIternerary.h; sourceTree = "<group>"; };
-		14085E4016BCDEEE0040B104 /* MapForIternerary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapForIternerary.m; sourceTree = "<group>"; };
+		14085E4416BCDFAF0040B104 /* MaoForItinerary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MaoForItinerary.h; sourceTree = "<group>"; };
+		14085E4516BCDFAF0040B104 /* MaoForItinerary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MaoForItinerary.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,8 +91,8 @@
 				14085E3416BC1AD70040B104 /* MainStoryboard.storyboard */,
 				14085E3716BC1AD70040B104 /* ViewController.h */,
 				14085E3816BC1AD70040B104 /* ViewController.m */,
-				14085E3F16BCDEEE0040B104 /* MapForIternerary.h */,
-				14085E4016BCDEEE0040B104 /* MapForIternerary.m */,
+				14085E4416BCDFAF0040B104 /* MaoForItinerary.h */,
+				14085E4516BCDFAF0040B104 /* MaoForItinerary.m */,
 				14085E2316BC1AD60040B104 /* Supporting Files */,
 			);
 			path = GitUseExample;
@@ -181,7 +181,7 @@
 				14085E2916BC1AD60040B104 /* main.m in Sources */,
 				14085E2D16BC1AD60040B104 /* AppDelegate.m in Sources */,
 				14085E3916BC1AD70040B104 /* ViewController.m in Sources */,
-				14085E4216BCDEEE0040B104 /* MapForIternerary.m in Sources */,
+				14085E4616BCDFAF0040B104 /* MaoForItinerary.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

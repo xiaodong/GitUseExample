@@ -1,5 +1,5 @@
 //
-//  MapForIternerary.h
+//  MaoForItinerary.h
 //  GitUseExample
 //
 //  Created by Xander on 02/02/2013.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface MapForIternerary : UIViewController
+@interface MaoForItinerary : UIViewController
 
 @end
